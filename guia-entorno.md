@@ -25,6 +25,8 @@ Este comando nos permite configurar y modificar los parametros de git, Como el n
 
 * **Comandos:**
   `git config --list`: Nos muestra toda la configuracion de git.
+  `git experimento`: Comando experimental para prender fuego el repositorio.
+  `git experimento 2`: Comando experimental 2 para prender fuego el repositorio.
 
 * **-Global:** Afecta a todos los repositorios en los que participe el usuario
   `git config --global user.name "Nombre de usuario"`
