@@ -14,6 +14,12 @@ Este comando se utiliza para comprobar que Git se encuentre instalado en el sist
 
 ---
 
+# Git Init
+
+---
+
+El comando `git init` lo utilizamos para inicializar un nuevo repositorio git dentro de una carpeta vacía. Al ejecutarse crea una carpeta llamada `.git` donde se almacenan información sobre las versiones de los proyectos, el historial de commits como sus ramas y configuraciones.
+
 ## Git config
 Este comando nos permite configurar y modificar los parametros de git, Como el nombre de usuario y el correo electronico que van asociados a los commits. 
 
