@@ -15,10 +15,10 @@ En este trabajo se explican los comandos de Git vistos a lo largo de la materia,
 En este trabajo se explican los comandos de git vistos a lo largo de la materia.
 
 Links:
-* [Deshacer cambios](deshacer_cambios.md)
-* [Flujo básico](flujo_basico.md)
-* [Guía de entorno](guia-entorno.md)
-* [Inspección de historial](inspeccion_historial.md)
-* [Integración de ramas](integracion_ramas.md)
-* [Navegación de ramas](navegacion_ramas.md)
-* [Repositorios remotos](repositorios_remotos.md)
+    - [Deshacer cambios](deshacer_cambios.md)
+    - [Flujo básico](flujo_basico.md)
+    - [Guía de entorno](guia-entorno.md)
+    - [Inspección de historial](inspeccion_historial.md)
+    - [Integración de ramas](integracion_ramas.md)
+    - [Navegación de ramas](navegacion_ramas.md)
+    - [Repositorios remotos](repositorios_remotos.md)
